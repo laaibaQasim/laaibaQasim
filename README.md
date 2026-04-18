@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/laaibaQasim/laaibaQasim/blob/output/github-snake-dark.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/laaibaQasim/laaibaQasim/output/github-snake-dark.svg" alt="snake gif" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Laiba Qasim</h1>
