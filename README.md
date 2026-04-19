@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/laaibaQasim/laaibaQasim/output/github-snake-dark.svg" alt="snake gif" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Laiba Qasim</h1>
 
 <p align="center">
@@ -62,18 +58,6 @@
   <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" alt="GitHub" style="filter: invert(1)"/></a>
   &nbsp;&nbsp;
   <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman"/></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laaibaQasim&show_icons=true&count_private=true&theme=github_dark" alt="Laiba's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laaibaQasim&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
